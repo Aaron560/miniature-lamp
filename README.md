@@ -1,23 +1,17 @@
-# Product Name
-> Short blurb about what your product does.
-
-One to two paragraph statement about your product and what it does.
+# PythonVenv Automation script.
+> Just Creates the user given folder & populates it with proper venv files. Then activates it for the user.
 
 ![](header.png)
 
 ## Installation
-
+Make sure you have python installed to run the python program, to check if you have it run ``` python --version```. If you get a error, download and install python [here](https://www.python.org/). After installing python run ```pip install venv```.
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+when you run this script it will ask you to input a folder name, creates the enviourment then activates the venv.
 
 ## Release History
-
+v1.0
 
 ## Meta
 
