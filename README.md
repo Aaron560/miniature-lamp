@@ -1,6 +1,8 @@
 # PythonVenv Automation script.
 > Just Creates the user given folder & populates it with proper venv files. Then activates it for the user.
 
+Of course this was done as a personal project, so parts of it my not be tested or work all together.
+
 ![](header.png)
 
 ## Installation
